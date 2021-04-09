@@ -10,3 +10,7 @@ And yes.
     *--> git remote add origin <url>
 
 4- git remoter -v = this command will tell you all the repositories connected to the current one.
+
+kksskskskkskkskksksksks
+
+
